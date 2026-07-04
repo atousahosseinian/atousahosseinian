@@ -1,6 +1,6 @@
 # About me
 
- **AI Engineer in progress | M.Sc student of AI Engineering **  
+ **AI Engineer in progress | M.Sc student of AI Engineering**  
  **Currently working on Machine Learning, Computer Vision & Image Processing projects**  
  **Python Developer focused on AI-based visual systems**  
  **Learning by building real-world AI and image processing projects**.
