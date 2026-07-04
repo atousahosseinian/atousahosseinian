@@ -1,22 +1,22 @@
 # About me
 
-✨ **AI Engineer in progress**  
-🖼️ **Currently working on Machine Learning, Computer Vision & Image Processing projects**  
-🐍 **Python Developer focused on AI-based visual systems**  
-🌱 **Learning by building real-world AI and image processing projects**.
+ **AI Engineer in progress**  
+ **Currently working on Machine Learning, Computer Vision & Image Processing projects**  
+ **Python Developer focused on AI-based visual systems**  
+ **Learning by building real-world AI and image processing projects**.
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Image Processing
-- 🐍 Working with Python
-- 🧠 Currently working on machine learning and image processing projects
-- 🛠️ Using Git and GitHub to manage and share my work
-- 🌱 Improving my skills through hands-on, project-based learning
-- 💼 Open to job opportunities, freelance work, collaboration, and open-source contributions
-- 🌍 Based in Iran
-- 🗣️ Languages: Persian, English, German
+-  Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Image Processing
+-  Working with Python
+-  Currently working on machine learning and image processing projects
+-  Using Git and GitHub to manage and share my work
+-  Improving my skills through hands-on, project-based learning
+-  Open to job opportunities, freelance work, collaboration, and open-source contributions
+-  Based in Iran
+-  Languages: Persian, English, German
 
 ---
 
