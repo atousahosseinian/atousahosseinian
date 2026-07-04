@@ -3,9 +3,7 @@
 ✨ **AI Engineer in progress**  
 🖼️ **Currently working on Machine Learning, Computer Vision & Image Processing projects**  
 🐍 **Python Developer focused on AI-based visual systems**  
-🌱 **Learning by building real-world AI and image processing projects**
-
-سلام، من آتوس حسینیان هستم. در مسیر تبدیل شدن به یک AI Engineer حرفه‌ای هستم و تمرکزم روی Machine Learning، Computer Vision و Image Processing با Python است.
+🌱 **Learning by building real-world AI and image processing projects**.
 
 ---
 
