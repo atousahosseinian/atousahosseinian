@@ -1,9 +1,6 @@
 # Hi, I'm Atoos Hosseinian 👋
 
 I'm an AI Engineer in progress, currently working on machine learning and image processing projects with Python.
-
-سلام، من آتوس حسینیان هستم. در مسیر تبدیل شدن به یک AI Engineer حرفه‌ای هستم و در حال حاضر روی پروژه‌های Machine Learning و Image Processing با Python کار می‌کنم.
-
 ---
 
 ## 🚀 About Me
